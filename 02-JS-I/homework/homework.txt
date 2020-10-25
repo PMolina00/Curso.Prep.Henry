@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+   las variables se pueden considerar como contenedores de información(similar a una caja en la cual colocas un tipo específico de información), a la cual luego puede acceder gracias a que le damos un nombre al crearlas, el cual nos permite identificarlas. 
+Strings
+   las strings son un tipo de datos (información), el cual nos permite almacenar cadenas de texto, por lo que cualquier información que guardes como strings será tomado como texto pormas que este sea un “número” (1) ya que para que se considere un número se guarda de otra manera.
+Funciones (argumentos, return)
+   funciones: las funciones nos permiten ahorrar líneas de código ya que en lugar de escribir el mismo código en repetidas ocasiones solo debemos escribirlos una vez la acción que realiza el código para luego repetir la función en distintas ocasiones.
+   argumentos, estos son los que utilizamos al crear una función para determinar los valores a reemplazar en la acción realizada por la función.
+   return, se utiliza para que las funciones den un valor como resultado de completarse.
+Declaraciones if
+   las declaraciones if, se pueden entender como un conjunto de posibles acciones a ser realizadas de cumplir o no, una o más condiciones.
+Valores booleanos (true, false)
+   los valores booleanos (true, false), estos se pueden entender como valores lógicos “verdadero y falso” ( si un dato es verdadero o es falso).
