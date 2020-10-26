@@ -1,0 +1,4 @@
+- for, es una palabra reservada la cual se utiliza para la creación de ciclos/bucles, esto con el fin de ahorrar código en tareas de repetición y con la cual se puede automatizar el proceso mediante su utilización.
+- &&, esta simbología se entiende como and ( y ), la cual se utiliza para determinar que ambas condiciones se cumplan para dar un true ( verdadero ) y de no hacerlo dar un false ( falso )
+- ||, esta simbología se entiende como or ( o ), esta se utiliza para determinar si se cumple una u otra condición, no siendo necesario que ambas se cumplan, para dar un true o un false.
+- !, este símbolo se entiende en un contexto de condición como un not (no), este se utiliza para en caso de que la condición sea true esta dará false y en caso de ser false dará como resultado true.
