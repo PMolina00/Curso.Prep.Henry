@@ -1,0 +1,6 @@
+-los objetos son variables a las cuales le agregamos propiedades, las cuales funcionan de una manera similar a una array solo que esta no se llama necesariamente con un número preasignado dependiendo de su posición sino que nosotros mismos le asignamos el nombre.
+-propiedades, mediante estas podemos agregar información al objeto, a la que luego podemos llamar mediante un nombre lo que facilita más su uso a la hora de programar.
+-métodos, estas son las funciones que se encuentran dentro de una propiedad de un objeto, pero su funcionamiento y utilización dentro de esta no cambia realmente.
+-bucle for...in, este se utiliza para poder recorrer las propiedades del objeto, así como en las array utilizamos los bucles for, solo que para los objetos debemos de utilizar la variación in del bucle for.
+-notación de puntos vs notación de corchetes, una de las principales diferencias entre estas es que la notación de punto es más corta de tipear pero también es directa, por lo que cosas como llamar mediante una variable le sería imposible ya que solo buscaría el nombre de la variable dentro de las propiedades del 
+objeto, mas no a la variable la cual en la cual hayamos guardado el nombre de la propiedad, esto es distinto para la notación de corchetes ya que en esta si se permite llamar mediante una variable.
