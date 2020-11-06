@@ -1,0 +1,2 @@
+-prototype, lo podríamos interpretar su utilización como plantillas, las cuales utilizamos para a la hora de crear los objetos y sus clases podamos ahorrar recursos.
+-constructors(de clase), se utilizan para la creación de las clases por medio de la implementación de los prototipos.
