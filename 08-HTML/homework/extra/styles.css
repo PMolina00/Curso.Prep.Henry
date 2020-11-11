@@ -1,0 +1,46 @@
+h1 {
+	color: lightslategray;
+	padding: 10px;
+    margin: 10px;
+}
+h3 {
+	padding: 10px;
+    margin: 10px;
+}
+h4{
+	padding: 10px;
+    margin: 10px;
+}
+img {
+	width: 400px;
+}
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: darkgray;
+	padding: 50px;
+	border: 0.5rem solid;
+}
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+#aid {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+body {
+  background-image: url("https://images3.alphacoders.com/976/976690.jpg");
+}
+div {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.divClass {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
